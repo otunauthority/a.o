@@ -556,7 +556,7 @@
     left:0;
     bottom: 0;  
     width: 100%;
-    background-image:linear-gradient(rgba(0,0,0,0.8), #0856bde1), url(https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image:linear-gradient(rgba(0,0,0,0.8), #0856bde1);
     background-position: center;
     background-size: cover;
     z-index: -1;
