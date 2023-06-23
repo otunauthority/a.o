@@ -806,7 +806,7 @@
     
     /****** WELCOME SECTION *******/
     #welcome-section {
-    background: linear-gradient(31deg, rgba(201,0,54,1) 0%, rgba(56,0,199,0.7) 100%), url('https://thompsonmanda08.github.io/assets_to_codepen/thompsonmanda.JPG');
+    background: linear-gradient(31deg, rgba(201,0,54,1) 0%, rgba(56,0,199,0.7) 100%);
     background-repeat: no-repeat;
     background-size: cover;
     
