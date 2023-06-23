@@ -662,18 +662,18 @@
   
   #social-link-icons {
     flex-wrap: wrap;
-    gap: 0.5em;  
+    gap: 0.2em;  
   }
   
   .social-media-link {
     color: hsl(var(--clr-neutral-100));
-    margin-inline: 1.5em;
+    margin-inline: 1em;
     text-decoration: none;
     transition: transform .3s ease-in-out;
   }
   
   .social-media p {
-    margin-inline: .3em;
+    margin-inline: .2em;
   }
   
   .social-media:hover {
