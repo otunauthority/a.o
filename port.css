@@ -666,14 +666,14 @@
   }
   
   .social-media-link {
-    color: hsl(var(--clr-neutral-100));
+    color: hsl(var(--clr-neutral-50));
     margin-inline: 1em;
     text-decoration: none;
     transition: transform .3s ease-in-out;
   }
   
   .social-media p {
-    margin-inline: .2em;
+    margin-inline: 2em;
   }
   
   .social-media:hover {
