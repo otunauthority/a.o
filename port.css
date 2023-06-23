@@ -662,7 +662,7 @@
   
   #social-link-icons {
     flex-wrap: wrap;
-    gap: 1em;  
+    gap: 0.5em;  
   }
   
   .social-media-link {
