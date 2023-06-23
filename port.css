@@ -115,8 +115,8 @@
   *********************/
   .flex {
     display: flex;
-    --gap: 2em;
-    gap: var(--gap, 2em);
+    --gap: 1em;
+    gap: var(--gap, 1em);
   }
   
   .flex-align-y {
