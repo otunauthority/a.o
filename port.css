@@ -663,7 +663,8 @@
   #social-link-icons {
     flex-wrap: wrap;
     gap: 0.2em;  
-    border-radiius: 1500;  
+    border-radiius: 1500; 
+    color:white;  
   }
   
   .social-media-link {
